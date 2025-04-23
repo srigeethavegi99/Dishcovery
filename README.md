@@ -1,4 +1,23 @@
 # Dishcovery
+# Project Overview
+Dishcovery is a modern web application designed to revolutionize how people discover and share food experiences. The platform enables users to:
+
+- Find new restaurants based on location, cuisine, or specific dishes
+- Share authentic reviews and photos of dining experiences
+- Connect with a community of fellow food enthusiasts
+- Create personalized profiles with favorite restaurants and dishes
+- Contribute to a growing database of culinary discoveries
+## Technologies Used
+- React.js
+- HTML5/CSS3
+- JavaScript 
+- Node.js
+- Express.js
+- SQL
+- RESTful API architecture
+- Git/GitHub for version control
+## Clone the Repository
+git clone https://github.com/srigeethavegi99/Dishcovery.git
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
